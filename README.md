@@ -1,4 +1,4 @@
-# My Reading List
+# My *Personal* Reading List
 
 Mostly about distributed systems and database systems
 
